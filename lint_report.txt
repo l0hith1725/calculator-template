@@ -1,0 +1,6 @@
+************* Module src.calculator
+src/calculator.py:32:1: W0511: TODO: Students will add multiply, divide, power, sqrt functions (fixme)
+
+------------------------------------------------------------------
+Your code has been rated at 9.44/10 (previous run: 9.44/10, +0.00)
+
